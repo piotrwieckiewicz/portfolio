@@ -30,19 +30,22 @@ This repository contains few sample data analyzes and visualizations I prepared 
   * How can a bike rental company analyze its business? Which places and times are the most popular among customers? What has the biggest impact on the number of rentals? How can the company improve the offered supply to optimize the number of bicycles made available to customers and improve the company's profitability.
   * *Keywords*: exploratory data analysis
 
-### Interactive visualizations with plotly/dash
-
-**Important note!!! Bear in mind that interactive apps are located on FREE server, so it may take up to 20 seconds to run them.**
-
-* [Financial dashboard](https://financial-sample-dashboard.herokuapp.com/)
-  * Data for app is partially downloaded from various sources (and webscraped) and in some cases, independent of author, the data may not download properly. However, this should not affect the operation of the main charts in the application, but only less relevant information at the top of the page.
-  * [Screenshots](https://imgur.com/a/FORPpje)
-  * [Source code](https://github.com/piotrwieckiewicz/portfolio/blob/master/financial_dashboard/financial.py)
-
-
 ### Other projects
 
 * [Analysis of the profitability of saving for retirement under PPK](https://nbviewer.jupyter.org/github/piotrwieckiewicz/portfolio/blob/master/ppk_analysis/ppk.ipynb)
 
   * Is it worth allocating part of your monthly salary to savings for retirement through Pracownicze Plany Kapitałowe? Will PPK help me secure myself for retirement? How high should be my contribution rate and for how many years should I save?
   * *Keywords*: investments, pension funds, financial model 
+  
+### Interactive visualizations with plotly/dash
+
+**Important note!!! Bear in mind that interactive apps are located on FREE server, so it may take up to 20 seconds to run them.**
+
+* [The Startup Quadrant](https://quadrant-sample-dashboard.herokuapp.com/)
+  * [Screenshots](https://imgur.com/a/SflDtam)
+  * [Source code](https://github.com/piotrwieckiewicz/portfolio/blob/master/quadrant_dashboard/quadrant.py)
+
+* [Financial dashboard](https://financial-sample-dashboard.herokuapp.com/)
+  * Data for this particular app is partially downloaded from various sources and webscraped. In some cases, independent of author, the data may not download properly. However, this should not affect the operation of the main charts in the application, but only less relevant information at the top of the page.
+  * [Screenshots](https://imgur.com/a/FORPpje)
+  * [Source code](https://github.com/piotrwieckiewicz/portfolio/blob/master/financial_dashboard/financial.py)
