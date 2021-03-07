@@ -1,3 +1,8 @@
+# Like some functions in Python libraries, you could say that this portoflio is now DEPRECATED.
+## Most of these projects shown below were prepared in winter / spring season of 2020. I have learned much since that time, so these notebooks do not present current state of my Python and data science skills very well. I will try to update these old projects and create new ones as soon as possible.
+
+# ~~~~~~~~~~~~~~~~~~
+
 # Portfolio
 This repository contains few sample data analyzes and visualizations I prepared to show my current coding skills. I wanted each project to be unique and present various analytical techniques. However, if you do not have time to read all of them, I encourage you to check at least [Price predictions of real estates in Riga](https://nbviewer.jupyter.org/github/piotrwieckiewicz/portfolio/blob/master/riga_real_estate/riga_price_prediction.ipynb) - it's based on real data and contains extensive data cleanup.
 
